@@ -6,8 +6,8 @@
  *3 对模型作拟合检验
  */
 #include "head.h"
-#include "mat.cpp"
-#include "source.cpp"
+#include "mat.h"
+#include "source.h"
 
 
 int Calculate_p(vector<Double> data)

@@ -1,6 +1,6 @@
 #include "head.h"
-#include "source.cpp"
-#include "mat.cpp"
+#include "source.h"
+#include "mat.h"
 
 /**
  * 可以多次测试得到最好的p,q 

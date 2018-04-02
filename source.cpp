@@ -1,4 +1,5 @@
 #include "head.h"
+#include "source.h"
 /**
  *该文件中是两个算法都用到的函数
  */

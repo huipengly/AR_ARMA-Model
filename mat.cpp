@@ -1,5 +1,5 @@
-#include "head.h"
 
+#include "mat.h"
 /**
  * a = inv(t(x) _*_ x) _*_ t(x) _*_ Y
  * t(x) : 对x球转置
